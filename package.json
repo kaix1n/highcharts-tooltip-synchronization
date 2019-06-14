@@ -1,10 +1,10 @@
 {
   "name": "highcharts-tooltip-synchronization",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "description": "Highcharts tooltips synchronization",
   "peerDependencies": {
-    "highcharts": "6.0.0"
+    "highcharts": "> 6.0.0"
   },
   "repository": {
     "type": "git",
