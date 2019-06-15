@@ -1,5 +1,7 @@
 # Highcharts tooltip synchronization
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/monopieces/highcharts-tooltip-synchronization.svg)](https://greenkeeper.io/)
+
 Show tooltips on multiple charts if xAxis value are same. Works well for both line and column charts.
 
 [Demo](https://codepen.io/hoppipolla/pen/BgNGKo)
